@@ -16,7 +16,7 @@ Passionnée par la création d'applications de bout en bout, je souhaite m'inves
 
 **Génie Logiciel & DevOps** : `UML` `Design Patterns` `Linux` `Git` `GitHub` `Docker` `Kubernetes`
 
-**Outils** : `VScode` `Webstorm` `IntelliJ` `PHPstorm` `Trello` `Asana` 
+**Outils** : `VScode` `Webstorm` `IntelliJ` `PHPstorm` `Trello` `Asana` `PowerBI` 
 
 ---
 
