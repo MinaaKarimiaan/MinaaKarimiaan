@@ -1,35 +1,33 @@
-Bonjour, moi c'est Mina 
+### Bonjour, moi c'est Mina 👋
 
-Actuellement en Master 1 MIASHS (DCISS) à l'Université Grenoble Alpes , je suis à la recherche d'une **alternance en tant que Développeuse Full Stack (Web & Logiciel) ou Data à partir de septembre 2026**.
+Étudiante en **Master 2 MIASHS (DCISS)** à l'Université Grenoble Alpes, je cherche un **stage de fin d'études de 6 mois à partir de février 2027** en développement **Full Stack**, **Data** ou **IA**.
 
-Passionnée par la création d'applications de bout en bout, je souhaite m'investir sur le long terme au sein de votre équipe technique. Je suis totalement flexible : je suis prête à m'installer dans votre région pour un poste en présentiel, ou à travailler en télétravail.
+Cet été, en stage chez AVANTEC.DS (Espagne, en télétravail et en anglais), j'ai construit une chaîne d'IA vocale **STT → LLM → TTS** en Python, de l'état de l'art jusqu'à la mise en production avec Docker.
 
----
-
-## 🛠 Compétences techniques
-
-**Langages** : `JavaScript` `Java` `Python` `PHP` `HTML` `CSS` 
-
-**Frameworks** : `React` `Angular` `Vue` `Laravel` `Spring` `Tailwind` 
-
-**Bases de données** : `SQL` `PostgreSQL` `SQLite` `MongoDB`
-
-**Génie Logiciel & DevOps** : `UML` `Design Patterns` `Linux` `Git` `GitHub` `Docker` `Kubernetes`
-
-**Outils** : `VScode` `Webstorm` `IntelliJ` `PHPstorm` `Trello` `Asana` `PowerBI` `Eclipse` `Klaxoon`
+📍 Montpellier · 💼 [LinkedIn](http://www.linkedin.com/in/mina-karimian) · ✉️ minaakarimiaan@gmail.com
 
 ---
 
-## 🗂 Projets
+### 🛠 Compétences
 
-### ✈️ [Planning de voyage](remplacez_par_le_lien_de_votre_repo) — Application Web
-Développement back-end d'un outil dynamique pour l'organisation d'itinéraires de voyage. `PHP` `Back-end`
+**Back-end :** `Java` `Python` `PHP` `Laravel` `API REST`  
+**Front-end :** `Vue.js 3` `Nuxt` `React` `TypeScript` `JavaScript` `HTML` `CSS`  
+**Données :** `SQL` `PostgreSQL` `MySQL` `SQLite` `MongoDB` `Power BI` `MCD / MLD`  
+**IA :** `LLM` `STT / TTS` `WebRTC / WebSockets`  
+**DevOps :** `Docker` `Kubernetes` `Linux` `Git` `GitLab CI` `GitHub Actions`  
+**Méthodes :** `UML` `Design Patterns` `Scrum` `Jira` `Trello`
 
-### 🎭 [MiART Festival](remplacez_par_le_lien_de_votre_repo) — Système d'information
-Modélisation complète (UML, Design Patterns) d'un système d'information pour un festival artistique itinérant (concerts, théâtre). `UML` `Génie Logiciel`
+---
 
-### 💻 [Gestion RH & Bataille Navale](remplacez_par_le_lien_de_votre_repo) — Projets Logiciels
-Conception en Programmation Orientée Objet (POO), développement d'algorithmique et d'une application (CRUD) pour la gestion d'une base d'employés. `Java` `POO` `CRUD`
+### 🗂 Projets
 
-### 📊 [Bases de données Agences](remplacez_par_le_lien_de_votre_repo) — Modélisation
-Modélisation (MCD/MLD) et implémentation de systèmes de gestion pour des offres d'emploi (intérim) et des réservations de séjours (agence de voyage). `SQL` `MCD` `MLD`
+| Projet | Description | Stack |
+|---|---|---|
+| ✈️ [**Trip Planner**](https://github.com/MinaaKarimiaan/trip-planner-laravel) | Application web pour organiser ses voyages (destinations, activités, hébergements, coût total), avec authentification et espace admin. | `Laravel` `PHP` `SQLite` `Blade` |
+| 💬 [**Messagerie instantanée**](https://github.com/MinaaKarimiaan/Projet-Java-Maven) | Application client-serveur en Java : messages 1-to-1 et de groupe, envoi de fichiers, historique. | `Java` `Sockets TCP` `Maven` |
+| 🎭 [**MiART-Fest Manager**](https://github.com/MinaaKarimiaan/festival-artistique-java) | Gestion d'un festival artistique itinérant, modélisé en UML. Patterns Observer, Strategy, Prototype, Composite. | `Java` `UML` `POO` |
+| 🏢 [**Agence d'intérim**](https://github.com/MinaaKarimiaan/bdd-agence-interim) | Base de données complète : modèle en 3NF, requêtes avancées, triggers et procédures stockées. | `MySQL` `MCD / MLD` |
+| 🎬 [**Films & Albums**](https://github.com/MinaaKarimiaan/bdd-films-albums) | Normalisation d'un schéma existant jusqu'en 3NF, contraintes et triggers. | `SQL` `SQLite` |
+| 🚢 [**Bataille navale**](https://github.com/MinaaKarimiaan/bataille-navale-java) | Jeu en Java avec interface graphique et joueur automatique. | `Java` `Swing` |
+
+*La plupart de ces projets ont été réalisés en équipe pendant mon M1 (2025-2026).*
