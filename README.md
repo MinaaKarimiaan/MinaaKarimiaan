@@ -9,6 +9,7 @@ Contact : minaakarimiaan@gmail.com - [LinkedIn](http://www.linkedin.com/in/mina-
 ### Ce que j'utilise
 
 - Back-end : Java, Python, PHP / Laravel, API REST
+- En cours d'apprentissage : C# / .NET (cours de M2)
 - Front-end : Vue.js / Nuxt, React, TypeScript, JavaScript, HTML / CSS
 - Données : SQL (PostgreSQL, MySQL, SQLite), MongoDB, Power BI
 - Outils : Docker, Kubernetes, Linux, Git, GitLab CI
