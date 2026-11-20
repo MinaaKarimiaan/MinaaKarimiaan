@@ -31,3 +31,10 @@ Cet été, en stage chez AVANTEC.DS (Espagne, en télétravail et en anglais), j
 | 🚢 [**Bataille navale**](https://github.com/MinaaKarimiaan/bataille-navale-java) | Jeu en Java avec interface graphique et joueur automatique. | `Java` `Swing` |
 
 *La plupart de ces projets ont été réalisés en équipe pendant mon M1 (2025-2026).*
+
+### 🚧 En cours (M2, 2026-2027)
+
+| Projet | Description | Stack |
+|---|---|---|
+| 💣 [**Bomberman multijoueur**](https://github.com/fedrahc/bomberman-webclient2-grp2) | Jeu web multijoueur en temps réel, en équipe. Ma partie : base de données MongoDB et API (joueurs, parties, scores). | `Node.js` `Socket.io` `MongoDB` `Express` |
+| 🎬 **BetterWatchlist** | Application de films en équipe : recherche, watchlist et notes, en FR/EN/ES. | `Nuxt` `Vue.js 3` `Supabase` `PostgreSQL` |
