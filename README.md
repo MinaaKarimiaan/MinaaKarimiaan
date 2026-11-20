@@ -1,40 +1,30 @@
-### Bonjour, moi c'est Mina 👋
+## Mina Karimian
 
-Étudiante en **Master 2 MIASHS (DCISS)** à l'Université Grenoble Alpes, je cherche un **stage de fin d'études de 6 mois à partir de février 2027** en développement **Full Stack**, **Data** ou **IA**.
+Je suis en M2 MIASHS (parcours DCISS) à l'Université Grenoble Alpes et je cherche un stage de fin d'études de 6 mois à partir de février 2027, en développement full stack, data ou IA.
 
-Cet été, en stage chez AVANTEC.DS (Espagne, en télétravail et en anglais), j'ai construit une chaîne d'IA vocale **STT → LLM → TTS** en Python, de l'état de l'art jusqu'à la mise en production avec Docker.
+L'été dernier, j'ai fait mon stage chez AVANTEC.DS (en télétravail, équipe en Espagne). J'ai travaillé sur un assistant vocal : reconnaissance vocale, LLM et synthèse vocale, en Python, avec un déploiement sous Docker.
 
-📍 Montpellier · 💼 [LinkedIn](http://www.linkedin.com/in/mina-karimian) · ✉️ minaakarimiaan@gmail.com
+Contact : minaakarimiaan@gmail.com - [LinkedIn](http://www.linkedin.com/in/mina-karimian)
 
----
+### Ce que j'utilise
 
-### 🛠 Compétences
+- Back-end : Java, Python, PHP / Laravel, API REST
+- Front-end : Vue.js / Nuxt, React, TypeScript, JavaScript, HTML / CSS
+- Données : SQL (PostgreSQL, MySQL, SQLite), MongoDB, Power BI
+- Outils : Docker, Kubernetes, Linux, Git, GitLab CI
 
-**Back-end :** `Java` `Python` `PHP` `Laravel` `API REST`  
-**Front-end :** `Vue.js 3` `Nuxt` `React` `TypeScript` `JavaScript` `HTML` `CSS`  
-**Données :** `SQL` `PostgreSQL` `MySQL` `SQLite` `MongoDB` `Power BI` `MCD / MLD`  
-**IA :** `LLM` `STT / TTS` `WebRTC / WebSockets`  
-**DevOps :** `Docker` `Kubernetes` `Linux` `Git` `GitLab CI` `GitHub Actions`  
-**Méthodes :** `UML` `Design Patterns` `Scrum` `Jira` `Trello`
+### Projets en cours (M2)
 
----
+- [better-watchlist](https://github.com/GatienCaillet/better-watchlist) - application de films avec watchlist et notes (Nuxt, Vue 3, Supabase), projet en équipe
+- [bomberman](https://github.com/fedrahc/bomberman-webclient2-grp2) - jeu multijoueur en ligne (Node.js, Socket.io). Je m'occupe de la partie MongoDB et de l'API pour les scores.
 
-### 🗂 Projets
+### Projets de M1
 
-| Projet | Description | Stack |
-|---|---|---|
-| ✈️ [**Trip Planner**](https://github.com/MinaaKarimiaan/trip-planner-laravel) | Application web pour organiser ses voyages (destinations, activités, hébergements, coût total), avec authentification et espace admin. | `Laravel` `PHP` `SQLite` `Blade` |
-| 💬 [**Messagerie instantanée**](https://github.com/MinaaKarimiaan/Projet-Java-Maven) | Application client-serveur en Java : messages 1-to-1 et de groupe, envoi de fichiers, historique. | `Java` `Sockets TCP` `Maven` |
-| 🎭 [**MiART-Fest Manager**](https://github.com/MinaaKarimiaan/festival-artistique-java) | Gestion d'un festival artistique itinérant, modélisé en UML. Patterns Observer, Strategy, Prototype, Composite. | `Java` `UML` `POO` |
-| 🏢 [**Agence d'intérim**](https://github.com/MinaaKarimiaan/bdd-agence-interim) | Base de données complète : modèle en 3NF, requêtes avancées, triggers et procédures stockées. | `MySQL` `MCD / MLD` |
-| 🎬 [**Films & Albums**](https://github.com/MinaaKarimiaan/bdd-films-albums) | Normalisation d'un schéma existant jusqu'en 3NF, contraintes et triggers. | `SQL` `SQLite` |
-| 🚢 [**Bataille navale**](https://github.com/MinaaKarimiaan/bataille-navale-java) | Jeu en Java avec interface graphique et joueur automatique. | `Java` `Swing` |
+- [trip-planner-laravel](https://github.com/MinaaKarimiaan/trip-planner-laravel) - application web pour organiser des voyages (Laravel, SQLite)
+- [Projet-Java-Maven](https://github.com/MinaaKarimiaan/Projet-Java-Maven) - messagerie client-serveur en Java (sockets TCP, Maven)
+- [festival-artistique-java](https://github.com/MinaaKarimiaan/festival-artistique-java) - gestion d'un festival, conception UML et design patterns en Java
+- [bdd-agence-interim](https://github.com/MinaaKarimiaan/bdd-agence-interim) - base de données MySQL avec triggers et procédures stockées
+- [bdd-films-albums](https://github.com/MinaaKarimiaan/bdd-films-albums) - modélisation et normalisation d'une base SQLite
+- [bataille-navale-java](https://github.com/MinaaKarimiaan/bataille-navale-java) - bataille navale en Java avec interface Swing
 
-*La plupart de ces projets ont été réalisés en équipe pendant mon M1 (2025-2026).*
-
-### 🚧 En cours (M2, 2026-2027)
-
-| Projet | Description | Stack |
-|---|---|---|
-| 💣 [**Bomberman multijoueur**](https://github.com/fedrahc/bomberman-webclient2-grp2) | Jeu web multijoueur en temps réel, en équipe. Ma partie : base de données MongoDB et API (joueurs, parties, scores). | `Node.js` `Socket.io` `MongoDB` `Express` |
-| 🎬 **BetterWatchlist** | Application de films en équipe : recherche, watchlist et notes, en FR/EN/ES. | `Nuxt` `Vue.js 3` `Supabase` `PostgreSQL` |
+Ces projets ont été faits en groupe pendant le M1.
